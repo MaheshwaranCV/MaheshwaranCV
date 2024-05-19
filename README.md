@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there, I am `Maheshwaran` 👋 </h2>
+<h2 align="center"> Hi there, I am Maheshwaran 👋 </h2>
 
 <!-- [![Header](/images/readme_header.jpg "Header")](https://www.linkedin.com/in/mahima1911/) -->
 <p align="center">
