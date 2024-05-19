@@ -16,7 +16,7 @@
     <img alt = "Mahesh's Profile View"  src="https://komarev.com/ghpvc/?username=MaheshwaranCV&color=blue&label=Profile+Views"> 
 </p>
 
-### About me: <br>
+### About me <br>
 Hi! I am Maheshwaran C V, an FTF Consultant Intern at Kaar Technologies with a fervent passion for technology and innovation. I specialize in SAP technologies, including S/4HANA, FICO, ABAP, Ui5, BTP, Netweaver, PI/PO, and OData. My dynamic skill set extends to modern frameworks like Angular and Flutter, and I am proficient in languages such as C, Python, and ABAP. Additionally, I have experience with Node.js, MongoDB, and Flask, and am well-versed in web technologies including HTML, CSS, JavaScript, TypeScript, and XML. My familiarity with platforms like AWS and tools such as Visual Studio, Android Studio, and Postman enables me to deliver robust solutions. As an AWS Certified Cloud Practitioner, I am committed to leveraging technology to solve complex business problems. Let's connect and collaborate on innovative projects that harness the transformative potential of technology.
 <hr>
 
@@ -25,7 +25,7 @@ Hi! I am Maheshwaran C V, an FTF Consultant Intern at Kaar Technologies with a f
 :computer: I’m looking to collaborate on: **Any SAP / C / Python based projects**<br>
 
 <!-- Tech Stack -->
-### 🛠 &nbsp;Tech Stack
+### Tech Stack
 <details>
   <summary>Check it out</summary>
   <br>
@@ -84,7 +84,7 @@ Hi! I am Maheshwaran C V, an FTF Consultant Intern at Kaar Technologies with a f
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### GitHub Analytics
 
 <details>
   <summary>Check it out</summary>
