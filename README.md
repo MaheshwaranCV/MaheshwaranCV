@@ -1,6 +1,5 @@
 <h1 align="center"> Hi there, I am Maheshwaran <img src="assets/hand-wave.gif" height="40" width="40" alt="Waving hand gif"/> </h1>
 
-<!-- [![Header](/images/readme_header.jpg "Header")](https://www.linkedin.com/in/mahima1911/) -->
 <p align="center">
     <a href="https://www.linkedin.com/in/maheshwarancv/" >
         <img alt = "Mahima's LinkedIn" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/linkedin.svg">
