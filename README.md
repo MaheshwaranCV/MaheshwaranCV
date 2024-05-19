@@ -17,12 +17,12 @@
 </p>
 
 ### About me: <br>
-Hi! I am Maheshwaran C V, an FTF Consultant Intern at Kaar Technologies with a fervent passion for technology and innovation. Specializing in SAP technologies like S/4HANA, FICO, ABAP, Ui5, BTP, Netweaver, PI/PO, and OData, I also have experience with modern frameworks such as Angular and Flutter. My dynamic skill set includes proficiency in languages like C, Python, and ABAP, as well as frameworks and libraries such as Node.js, MongoDB, and Flask. I am adept with platforms like AWS and SAP, and tools including Visual Studio, Android Studio, and Postman. Additionally, I am well-versed in web technologies like HTML, CSS, JavaScript, TypeScript, and XML, and hold an AWS Certified Cloud Practitioner certification. I am passionate about leveraging technology to solve complex business problems and am eager to collaborate on innovative projects. Let's connect to explore how my skills and enthusiasm can contribute to groundbreaking ventures.
+Hi! I am Maheshwaran C V, an FTF Consultant Intern at Kaar Technologies with a fervent passion for technology and innovation. I specialize in SAP technologies, including S/4HANA, FICO, ABAP, Ui5, BTP, Netweaver, PI/PO, and OData. My dynamic skill set extends to modern frameworks like Angular and Flutter, and I am proficient in languages such as C, Python, and ABAP. Additionally, I have experience with Node.js, MongoDB, and Flask, and am well-versed in web technologies including HTML, CSS, JavaScript, TypeScript, and XML. My familiarity with platforms like AWS and tools such as Visual Studio, Android Studio, and Postman enables me to deliver robust solutions. As an AWS Certified Cloud Practitioner, I am committed to leveraging technology to solve complex business problems. Let's connect and collaborate on innovative projects that harness the transformative potential of technology.
 <hr>
 
 
 :books: I’m currently learning: **SAP** and **AWS**<br>
-:computer: I’m looking to collaborate on: **Any SAP / Python / C based projects**<br>
+:computer: I’m looking to collaborate on: **Any SAP / C / Python based projects**<br>
 
 ### Tools and Technologies :
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
