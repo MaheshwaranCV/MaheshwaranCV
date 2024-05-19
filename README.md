@@ -25,7 +25,6 @@ Hi! I am Maheshwaran C V, an FTF Consultant Intern at Kaar Technologies with a f
 :computer: I’m looking to collaborate on: **Any SAP / C / Python based projects**<br>
 
 <!-- Tech Stack -->
-<!-- https://github.com/Ileriayo/markdown-badges -->
 ### 🛠 &nbsp;Tech Stack
 <details>
   <summary>Check it out</summary>
@@ -64,10 +63,9 @@ Hi! I am Maheshwaran C V, an FTF Consultant Intern at Kaar Technologies with a f
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   <br>
 
-<!-- Version Control & Markdown -->
+ <!-- Version Control & Markdown -->
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 </details>
 
 <!-- Github Analytics Card -->
