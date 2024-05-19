@@ -74,7 +74,8 @@ Hi! I am Maheshwaran C V, an FTF Consultant Intern at Kaar Technologies with a f
 <details>
   <summary>Check it out</summary>
   <br>
-  <p align="center">
+  <!-- <p align="center"> -->
+  <p>
     <!-- <a href="https://github.com/MaheshwaranCV"> -->
       <img src="https://github-readme-stats.vercel.app/api?username=MaheshwaranCV&show_icons=true&hide=stars&include_all_commits=true&theme=highcontrast" alt="Mahesh's GitHub Stats" />
       <br>
