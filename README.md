@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there, I am Maheshwaran <img src="assets/waving_hand.gif" height="35" width="35" alt="Waving hand gif"/> </h2>
+<h2 align="center"> Hi there, I am Maheshwaran <img src="assets/waving_hand-wave.gif" height="35" width="35" alt="Waving hand gif"/> </h2>
 
 <!-- [![Header](/images/readme_header.jpg "Header")](https://www.linkedin.com/in/mahima1911/) -->
 <p align="center">
@@ -7,7 +7,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/maheshwarancv" >
-        <img alt = "Mahima's Kaggle" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/Twitter.svg">
+        <img alt = "Mahesh's Twitter" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/Twitter.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:mahesh172002@gmail.com" >
