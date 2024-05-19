@@ -3,7 +3,7 @@
 <!-- [![Header](/images/readme_header.jpg "Header")](https://www.linkedin.com/in/mahima1911/) -->
 <p align="center">
     <a href="https://www.linkedin.com/in/maheshwarancv/" >
-        <img alt = "Mahima's LinkedIn" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/LinkedIn.svg">
+        <img alt = "Mahima's LinkedIn" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/linkedin.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/maheshwarancv" >
@@ -11,7 +11,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:mahesh172002@gmail.com" >
-        <img alt = "Mahesh's mail" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/Gmail.svg">
+        <img alt = "Mahesh's mail" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/gmail.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt = "Mahesh's Profile View"  src="https://komarev.com/ghpvc/?username=MaheshwaranCV&color=blue&label=Profile+Views"> 
