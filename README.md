@@ -1,17 +1,17 @@
-<h2 align="center"> Hi there, I am Maheshwaran 👋 </h2>
+<h2 align="center"> Hi there, I am Maheshwaran <img src="assets/waving_hand.gif" height="45" width="45" alt="Waving hand gif"/> </h2>
 
 <!-- [![Header](/images/readme_header.jpg "Header")](https://www.linkedin.com/in/mahima1911/) -->
 <p align="center">
     <a href="https://www.linkedin.com/in/maheshwarancv/" >
-        <img alt = "Mahima's LinkedIn" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/images/LinkedIn.svg">
+        <img alt = "Mahima's LinkedIn" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/LinkedIn.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/maheshwarancv" >
-        <img alt = "Mahima's Kaggle" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/images/Twitter.svg">
+        <img alt = "Mahima's Kaggle" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/Twitter.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:mahesh172002@gmail.com" >
-        <img alt = "Mahesh's mail" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/images/Gmail.svg">
+        <img alt = "Mahesh's mail" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/Gmail.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt = "Mahesh's Profile View"  src="https://komarev.com/ghpvc/?username=MaheshwaranCV&color=blue&label=Profile+Views"> 
