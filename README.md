@@ -10,7 +10,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:mahesh172002@gmail.com" >
-        <img alt = "Mahesh's mail" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/gmail.svg">
+        <img alt = "Mahesh's Gmail" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/gmail.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt = "Mahesh's Profile View"  src="https://komarev.com/ghpvc/?username=MaheshwaranCV&color=blue&label=Profile+Views"> 
