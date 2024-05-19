@@ -22,7 +22,7 @@ Hi! I am Maheshwaran C V, an FTF Consultant Intern at Kaar Technologies with a f
 
 
 :books: I’m currently learning: **SAP** and **AWS**<br>
-:computer: I’m looking to collaborate on: **Any SAP / Python based projects**<br>
+:computer: I’m looking to collaborate on: **Any SAP / Python / C based projects**<br>
 
 ### Tools and Technologies :
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
