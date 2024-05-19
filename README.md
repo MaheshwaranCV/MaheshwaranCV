@@ -75,8 +75,8 @@ Hi! I am Maheshwaran C V, an FTF Consultant Intern at Kaar Technologies with a f
   <summary>Check it out</summary>
   <p align="center">
     <a href="https://github.com/MaheshwaranCV">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaheshwaranCV&show_icons=true&hide=stars&include_all_commits=true&theme=highcontrast"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshwaranCV&layout=compact&theme=highcontrast"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaheshwaranCV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaheshwaranCV&layout=compact&langs_count=8&theme=tokyonight"/>
     </a>
   </p>
 </details> -->
@@ -90,8 +90,8 @@ Hi! I am Maheshwaran C V, an FTF Consultant Intern at Kaar Technologies with a f
   <summary>Check it out</summary>
   <p align="center">
     <a href="https://github.com/MaheshwaranCV">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaheshwaranCV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaheshwaranCV&layout=compact&langs_count=8&theme=tokyonight"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaheshwaranCV&show_icons=true&hide=stars&include_all_commits=true&theme=highcontrast"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshwaranCV&layout=compact&theme=highcontrast"/>
     </a>
   </p>
 </details>
