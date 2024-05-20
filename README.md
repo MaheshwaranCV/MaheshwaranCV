@@ -17,7 +17,9 @@
         <img alt = "Google Scholar" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/gscholar.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt = "Mahesh's Profile View"  src="https://komarev.com/ghpvc/?username=MaheshwaranCV&color=blue&label=Profile+Views"> 
+    <img alt = "Mahesh's Profile View"  src="https://komarev.com/ghpvc/?username=MaheshwaranCV&color=blue&label=Profile+Views">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    ![build: passing](https://img.shields.io/badge/build-passing-success)
 </p>
 
 ### About me <br>
