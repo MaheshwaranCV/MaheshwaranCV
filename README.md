@@ -18,8 +18,6 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt = "Mahesh's Profile View"  src="https://komarev.com/ghpvc/?username=MaheshwaranCV&color=blue&label=Profile+Views">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    ![build: passing](https://img.shields.io/badge/build-passing-success)
 </p>
 
 ### About me <br>
