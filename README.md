@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there <img src="assets/hand-wave.gif" height="30" width="30" alt="Waving hand gif"/>, I'm Maheshwaran</h2>
+<h1 align="center"> Hey there! <img src="assets/hand-wave.gif" height="45" width="45" alt="Waving hand gif"/></h1>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/maheshwarancv/" >
