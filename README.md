@@ -2,26 +2,26 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/maheshwarancv/" >
-        <img alt = "LinkedIn" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/LinkedIn.svg">
+        <img alt = "Mahesh's LinkedIn" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/LinkedIn.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://x.com/maheshwarancv" >
-        <img alt = "Twitter X" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/twitterx.svg">
+        <img alt = "Mahesh's Twitter X" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/twitterx.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:mahesh172002@gmail.com" >
-        <img alt = "Gmail" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/Gmail.svg">
+        <img alt = "Mahesh's Gmail" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/Gmail.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://scholar.google.com/citations?user=z7Zc7TQAAAAJ&hl=en&authuser=1" >
-        <img alt = "Google Scholar" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/gscholar.svg">
+        <img alt = "Mahesh's Google Scholar" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/gscholar.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://maheshwarancv.netlify.app/" >
-        <img alt = "Portfolio" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/world.svg">
+        <img alt = "Mahesh's Portfolio" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/world.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt = "Mahesh's Profile View"  src="https://komarev.com/ghpvc/?username=MaheshwaranCV&color=blue&label=Profile+Views">
+    <img alt = "Mahesh's Profile Views"  src="https://komarev.com/ghpvc/?username=MaheshwaranCV&color=blue&label=Profile+Views">
 </p>
 
 ### About me <br>
@@ -86,10 +86,8 @@ I am Maheshwaran C V, an FTF Consultant Intern at [Kaar Technologies](https://ww
   <!-- <p align="center"> -->
   <p>
     <a href="https://github.com/MaheshwaranCV">
-      <img src="https://github-readme-stats.vercel.app/api?username=MaheshwaranCV&show_icons=true&hide=stars&include_all_commits=true&theme=highcontrast" alt="Mahesh's GitHub Stats" />
-      <br>
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshwaranCV&layout=compact&theme=highcontrast" alt="Mahesh's GitHub Stats-1"/>
+      <img height="150" src="https://github-readme-stats.vercel.app/api?username=MaheshwaranCV&show_icons=true&hide=stars&include_all_commits=true&theme=highcontrast" alt="Mahesh's GitHub Stats"/>
+      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshwaranCV&layout=compact&theme=highcontrast" alt="Mahesh's GitHub Stats-1"/>
     </a>
   </p>
 </details>
@@ -99,7 +97,7 @@ I am Maheshwaran C V, an FTF Consultant Intern at [Kaar Technologies](https://ww
 
 <div>
   <a href="https://github.com/MaheshwaranCV">
-    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaheshwaranCV&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaheshwaranCV&layout=compact&langs_count=8&theme=synthwave"/>
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaheshwaranCV&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="Mahesh's GitHub Stats"/>
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaheshwaranCV&layout=compact&langs_count=8&theme=synthwave" alt="Mahesh's GitHub Stats-1"/>
   </a>
 </div>
