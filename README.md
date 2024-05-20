@@ -93,3 +93,13 @@ I am Maheshwaran C V, an FTF Consultant Intern at [Kaar Technologies](https://ww
     </a>
   </p>
 </details>
+
+
+
+
+<div>
+  <a href="https://github.com/MaheshwaranCV">
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaheshwaranCV&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaheshwaranCV&layout=compact&langs_count=8&theme=synthwave"/>
+  </a>
+</div>
