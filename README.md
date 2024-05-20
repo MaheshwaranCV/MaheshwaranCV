@@ -81,11 +81,11 @@ Hi! I am Maheshwaran C V, an FTF Consultant Intern at [Kaar Technologies](https:
 
   <!-- <p align="center"> -->
   <p>
-    <!-- <a href="https://github.com/MaheshwaranCV"> -->
+    <a href="https://github.com/MaheshwaranCV">
       <img src="https://github-readme-stats.vercel.app/api?username=MaheshwaranCV&show_icons=true&hide=stars&include_all_commits=true&theme=highcontrast" alt="Mahesh's GitHub Stats" />
       <br>
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshwaranCV&layout=compact&theme=highcontrast" alt="Mahesh's GitHub Stats-1"/>
-    <!-- </a> -->
+    </a>
   </p>
 </details>
