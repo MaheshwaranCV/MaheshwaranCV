@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there! <img src="assets/hand-wave.gif" height="45" width="45" alt="Waving hand gif"/></h1>
 
-<!-- <p align="center">
+<p align="center">
     <a href="https://www.linkedin.com/in/maheshwarancv/" >
         <img alt = "Mahesh's LinkedIn" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/LinkedIn.svg">
     </a>
@@ -22,30 +22,6 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt = "Mahesh's Profile Views"  src="https://komarev.com/ghpvc/?username=MaheshwaranCV&color=blue&label=Profile+Views">
-</p> -->
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/maheshwarancv/" target="_blank" rel="noopener noreferrer">
-        <img alt="Mahesh's LinkedIn" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/LinkedIn.svg">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://x.com/maheshwarancv" target="_blank" rel="noopener noreferrer">
-        <img alt="Mahesh's Twitter X" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/twitterx.svg">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:mahesh172002@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img alt="Mahesh's Gmail" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/Gmail.svg">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://scholar.google.com/citations?user=z7Zc7TQAAAAJ&hl=en&authuser=1" target="_blank" rel="noopener noreferrer">
-        <img alt="Mahesh's Google Scholar" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/gscholar.svg">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://maheshwarancv.netlify.app/" target="_blank" rel="noopener noreferrer">
-        <img alt="Mahesh's Portfolio" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/world.svg">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Mahesh's Profile Views" src="https://komarev.com/ghpvc/?username=MaheshwaranCV&color=blue&label=Profile+Views">
 </p>
 
 ### About me <br>
