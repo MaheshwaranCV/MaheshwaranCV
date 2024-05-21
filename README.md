@@ -18,7 +18,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://maheshwarancv.netlify.app/" >
-        <img alt = "Mahesh's Portfolio" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/world1.svg">
+        <img alt = "Mahesh's Portfolio" width="30px" src="https://raw.githubusercontent.com/MaheshwaranCV/MaheshwaranCV/master/assets/world.svg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt = "Mahesh's Profile Views"  src="https://komarev.com/ghpvc/?username=MaheshwaranCV&color=blue&label=Profile+Views">
