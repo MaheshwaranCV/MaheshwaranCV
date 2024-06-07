@@ -29,7 +29,7 @@ I am `Maheshwaran C V`, an FTF Consultant Intern at [Kaar Technologies](https://
 <hr>
 
 ### About me <br>
-I am `Maheshwaran C V`, an FTF Consultant Intern at [Kaar Technologies](https://www.kaartech.com/) with a fervent passion for technology and innovation.
+I am `Maheshwaran C V`, an FTF Consultant Intern at [Kaar Technologies](https://www.kaartech.com/) with a fervent passion for technology and innovation..\
 I specialize in SAP technologies, including S/4HANA, FICO, ABAP, Ui5, BTP, Netweaver, PI/PO, and OData.
 My dynamic skill set extends to modern frameworks like Angular and Flutter, and I am proficient in languages such as C, Python, and ABAP.
 Additionally, I have experience with Node.js, MongoDB, and Flask, and am well-versed in web technologies including HTML, CSS, JavaScript, TypeScript, and XML.
