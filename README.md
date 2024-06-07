@@ -91,9 +91,11 @@
   <!-- <p align="center"> -->
   <p>
     <a href="https://github.com/MaheshwaranCV">
-      <img height="150" src="https://github-readme-stats.vercel.app/api?username=MaheshwaranCV&show_icons=true&hide=stars&include_all_commits=true&theme=highcontrast" alt="Mahesh's GitHub Stats"/>
+        <img height="150" src="https://github-readme-stats.vercel.app/api?username=MaheshwaranCV&show_icons=true&locale=en" alt="Mahesh's GitHub Stats"/>
+<!--       <img height="150" src="https://github-readme-stats.vercel.app/api?username=MaheshwaranCV&show_icons=true&hide=stars&include_all_commits=true&theme=highcontrast" alt="Mahesh's GitHub Stats"/> -->
       <!-- <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaheshwaranCV&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="Mahesh's GitHub Stats"/> -->
-      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshwaranCV&layout=compact&theme=highcontrast" alt="Mahesh's GitHub Stats-1"/>
+        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaheshwaranCV&show_icons=true&locale=en&layout=compact" alt="Mahesh's GitHub Stats-1"/>
+<!--       <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshwaranCV&layout=compact&theme=highcontrast" alt="Mahesh's GitHub Stats-1"/> -->
       <!-- <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaheshwaranCV&layout=compact&langs_count=8&theme=synthwave" alt="Mahesh's GitHub Stats-1"/> -->
     </a>
   </p>
